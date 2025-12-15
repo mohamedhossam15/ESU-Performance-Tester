@@ -19,3 +19,14 @@ To use the ESU Performance Tester, you need to have Python installed on your sys
    ```bash
    git clone https://github.com/mohamedhossam15/ESU-Performance-Tester.git
    cd ESU-Performance-Tester
+   
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   
+
+   
